@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/mykolaharmash/git-jump/main/img/readme-banner.png)
+![MasterHead](https://raw.githubusercontent.com/mykolaharmash/git-jump/main/img/readme-banner.png)
 <h1 align="center">Hi 👋, I'm Naim Ansary</h1>
 <h3 align="center">A passionate FrontEnd Developer From India.</h3>
 <img align="right" alt="Coding" width="400" src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
